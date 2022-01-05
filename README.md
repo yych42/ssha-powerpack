@@ -14,3 +14,8 @@ Tools &amp; guides for SSHA students.
   - [ ] How to take notes with Obsidian
   - [ ] Citation management
     - [ ] How to manage references with Zotero in Word
+- [ ] Learning resources for
+  - [ ] Statistics
+  - [ ] Programming
+    - [ ] R language
+    - [ ] Python
